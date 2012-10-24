@@ -1,3 +1,4 @@
+// just a comment
 {
 	"firstName": "John",
 	"lastName": "Smith",
@@ -19,3 +20,4 @@
 		}
 	]
 }
+
